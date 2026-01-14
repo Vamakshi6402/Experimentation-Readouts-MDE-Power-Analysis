@@ -1,4 +1,4 @@
-# Experimentation-Readout-MDE-Power
+# Experimentation Readouts: MDE & Power Analysis
 
 ## Executive Summary
 This repository demonstrates an end-to-end A/B experimentation workflow, focused on how Big Tech economists design, analyze, and communicate experiments for decision-making. The project emphasizes clear readouts, uncertainty quantification, and statistical power, mirroring industry standards used at firms like Amazon and Google.
